@@ -6,7 +6,7 @@ body {
 
 * {
     color: white;
-    font-family: "Segoe UI Light";
+    font-family: "Segoe UI Light", sans-serif;
 }
 
 #sadface {
